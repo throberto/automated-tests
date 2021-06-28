@@ -1,0 +1,14 @@
+{
+  "name": "automated-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/throberto/automated-tests.git",
+  "author": "Thiago Roberto <thiago.nemo4code@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
